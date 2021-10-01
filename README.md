@@ -1,1 +1,17 @@
 # vmware-ubuntu
+
+![vmware_1](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_1.png)
+![vmware_2](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_2.png)
+![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
+![vmware_4](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_4.png)
+![vmware_5](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_5.png)
+![vmware_6](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_6.png)
+![vmware_7](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_7.png)
+![vmware_8](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_8.png)
+![vmware_9](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_9.png)
+![vmware_10](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_10.png)
+![vmware_11](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_11.png)
+![vmware_12](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_12.png)
+![vmware_13](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_13.png)
+![vmware_14](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_14.png)
+![vmware_15](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_15.png)
