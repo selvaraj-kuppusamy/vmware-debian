@@ -1,5 +1,11 @@
 # vmware-ubuntu
 
+# Install Debian Linux in vmware on ubuntu 20.04
+
+### prerequisites
+* Install [Virtual Disk Image](https://www.osboxes.org/vmware-images/)
+* Install [vmware]()
+
 ![vmware_1](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_1.png)
 ![vmware_2](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_2.png)
 ![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
