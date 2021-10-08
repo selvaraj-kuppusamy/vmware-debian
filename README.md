@@ -46,8 +46,20 @@ Review the license agreement and check the option I accept the terms in the lice
 
 ![vmware_8](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_8.png)
 ![vmware_9](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_9.png)
+
+Select whether you want the software to check for updates on startup and click Next.
+
 ![vmware_10](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_10.png)
+
+Next, the installer will ask you whether you want to the VMware Customer Experience Improvement Program. Select Yes or No to continue.
+
 ![vmware_11](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_11.png)
+
+Before you land on VMware Workstation’s Home window, it will ask you to:
+
+* Enter a license key
+* Try the software for 30 days for free.
+
 ![vmware_12](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_12.png)
 ![vmware_13](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_13.png)
 ![vmware_14](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_14.png)
