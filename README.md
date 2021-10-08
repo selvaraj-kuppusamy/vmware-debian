@@ -2,11 +2,28 @@
 
 # Install Debian Linux in vmware on ubuntu 20.04
 
+Running a virtual machine (VM) on a personal computer has never been easier. With the help of a hypervisor, one server can share its resources to create many virtual ones.
+
+Hosted hypervisors are installed on top of the host operating system and enable the user to add multiple guest operating systems using the same physical resources. VMware Workstation Pro is a virtualization application that works as a hosted hypervisor.
+
+Start exploring the power of virtualization with our guide on installing VMware Workstation Pro on Ubuntu 20.04.
+
 ### prerequisites
 * Install [Virtual Disk Image](https://www.osboxes.org/vmware-images/)
 * Install [vmware](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/vmware/installation/vmware_install.sh)
 
+### Download VMware Workstation Pro
+
+To install VMware, first, download the binary package on your system. The best practice is to find the latest stable version on the official VMware website.
+
+Open a web browser, go to the official VMware website and navigate to the [Try VMware Workstation Pro](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) page by following the path:
+
+Products > Workstation Pro > Try VMware Workstation Pro
+
+Since you are installing on Ubuntu, find the installation software for Linux and click on Download Now.
+
 ![vmware_1](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_1.png)
+
 ![vmware_2](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_2.png)
 ![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
 ![vmware_4](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_4.png)
