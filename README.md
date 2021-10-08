@@ -20,16 +20,30 @@ Open a web browser, go to the official VMware website and navigate to the [Try V
 
 Products > Workstation Pro > Try VMware Workstation Pro
 
-Since you are installing on Ubuntu, find the installation software for Linux and click on Download Now.
 
 ![vmware_1](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_1.png)
 
+Since you are installing on Ubuntu, find the installation software for Linux and click on Download Now.
+
 ![vmware_2](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_2.png)
+
+Then, install the prerequisites, GNU Compiler Collection and Build Essential, which will be used during the installation process.
+
 ![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
+
+### Extract VMware Installer
+Next, extract the file by typing the command sudo ./ followed by the full file name
+
 ![vmware_4](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_4.png)
 ![vmware_5](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_5.png)
 ![vmware_6](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_6.png)
+### Install VMware Workstation
+Search for VMware Workstation by typing the name in Ubuntu Dash. Open the virtualization software by clicking on the icon.
+
 ![vmware_7](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_7.png)
+
+Review the license agreement and check the option I accept the terms in the license agreement. Then, click Next to continue.
+
 ![vmware_8](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_8.png)
 ![vmware_9](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_9.png)
 ![vmware_10](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_10.png)
