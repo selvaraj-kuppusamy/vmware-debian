@@ -4,7 +4,7 @@
 
 ### prerequisites
 * Install [Virtual Disk Image](https://www.osboxes.org/vmware-images/)
-* Install [vmware]()
+* Install [vmware](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/vmware/installation/vmware_install.sh)
 
 ![vmware_1](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_1.png)
 ![vmware_2](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_2.png)
