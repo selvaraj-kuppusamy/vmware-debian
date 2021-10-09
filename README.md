@@ -61,9 +61,21 @@ Before you land on VMware Workstation’s Home window, it will ask you to:
 * Try the software for 30 days for free.
 
 ![vmware_12](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_12.png)
+
+After click Finish, After ask password to Authenticate
+
 ![vmware_13](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_13.png)
+
+And Show the Information
+
 ![vmware_14](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_14.png)
+
+About VMware Workstaion
+
 ![vmware_15](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_15.png)
+
+VMware Home page
+
 ![vmware_16](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_16.png)
 ![vmware_17](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_17.png)
 ![vmware_18](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_18.png)
