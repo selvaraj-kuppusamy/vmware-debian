@@ -77,15 +77,48 @@ About VMware Workstaion
 VMware Home page
 
 ![vmware_16](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_16.png)
+
+Click File and Click Virtual Machine Configuration
+Select Custom(advenced)
+
 ![vmware_17](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_17.png)
+
+Choose the Virtual Machine Hardware Compatibility
+
 ![vmware_18](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_18.png)
+
+In this case, Choose I will install the Operting system later
+
 ![vmware_19](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_19.png)
+
+Select ,the Operting System will be installed on this virtual machine
+In this case choose Linux.
+
 ![vmware_20](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_20.png)
+
+And Name the Virtual Machine
+
 ![vmware_21](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_21.png)
+
+Specify the number of processors for this virtual machine
+
 ![vmware_22](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_22.png)
+
+Choose the how much memory you like use for this virtual machine 
+
 ![vmware_23](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_23.png)
+
+Choose the Network Type
+
 ![vmware_24](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_24.png)
+
+Select Input/Output Controller Types
+
 ![vmware_25](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_25.png)
+
+
+
+
 ![vmware_26](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_26.png)
 ![vmware_27](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_27.png)
 ![vmware_28](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_28.png)
