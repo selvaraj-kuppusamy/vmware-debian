@@ -32,7 +32,7 @@ Then, install the prerequisites, GNU Compiler Collection and Build Essential, wh
 ![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
 
 ### Extract VMware Installer
-Next, extract the file by typing the command sudo ./ followed by the full file name
+Next, extract the file by typing the command sudo bash followed by the full file name
 
 ![vmware_4](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_4.png)
 ![vmware_5](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_5.png)
