@@ -131,6 +131,3 @@ sdsbvlebl
 ![vmware_35](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_35.png)
 ![vmware_36](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_36.png)
 ![vmware_37](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_37.png)
-![vmware_38](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_38.png)
-![vmware_39](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_39.png)
-![vmware_40](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_40.png)
