@@ -116,18 +116,55 @@ Select Input/Output Controller Types
 
 ![vmware_25](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_25.png)
 
-
-sdsbvlebl
+Select the Disk Type
 
 ![vmware_26](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_26.png)
+
+Select a Disk
+In this case Use an existing virtual disk
+
 ![vmware_27](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_27.png)
+
+Select an Existing Disk
+
 ![vmware_28](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_28.png)
+
+Choose an VMware virtual disk image
+
 ![vmware_29](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_29.png)
+
+Select an Existing Disk and Click Keep Existing Format
+
 ![vmware_30](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_30.png)
+
+Select an Existing Disk and Click Next
 ![vmware_31](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_31.png)
+
+Read the Information  and Ready to Create Virtual Machine
+
 ![vmware_32](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_32.png)
+
+Now, Debian VMware Workstation Ready to Start
+
 ![vmware_33](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_33.png)
+
+Start up this guest operating system
+
 ![vmware_34](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_34.png)
+
+Now, VMware is started , It's waiting for connection...
+
 ![vmware_35](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_35.png)
+
+Loaded Debian GRUB file in VMware
+
 ![vmware_36](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_36.png)
+
+
+Where ***USERNAME*** is a valid username on the Guest. You will be prompted for the user password and be given access.
+* **Username** - osboxes
+* **Password** -  osboxes.org
+* **Root Account Password** - osboxes.org
+
+
 ![vmware_37](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_37.png)
