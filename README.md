@@ -31,13 +31,12 @@ Then, install the prerequisites, **GNU Compiler Collection and Build Essential**
 
 ![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
 
-### Extract VMware Installer
+### Extract VMware Installer and  Install VMware Workstation
 Next, extract the file by typing the command **sudo bash followed by the full file name.**
 
 ![vmware_4](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_4.png)
 ![vmware_5](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_5.png)
 ![vmware_6](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_6.png)
-### Install VMware Workstation
 
 Search for **VMware Workstation** by typing the name in **Ubuntu Dash**.
 Open the **virtualization software** by clicking on the icon.
