@@ -23,7 +23,7 @@ Open a **web browser**, go to the **Official VMware website** and navigate to th
 
 ![vmware_1](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_1.png)
 
-Since you are installing on **Ubuntu**, find ** the installation software for Linux** and click on Download Now.
+Since you are installing on **Ubuntu**, find **the installation software for Linux** and click on Download Now.
 
 ![vmware_2](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_2.png)
 
@@ -32,13 +32,15 @@ Then, install the prerequisites, **GNU Compiler Collection and Build Essential**
 ![vmware_3](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_3.png)
 
 ### Extract VMware Installer
-Next, extract the file by typing the command **sudo bash followed by the full file name**
+Next, extract the file by typing the command **sudo bash followed by the full file name.**
 
 ![vmware_4](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_4.png)
 ![vmware_5](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_5.png)
 ![vmware_6](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_6.png)
 ### Install VMware Workstation
-Search for **VMware Workstation** by typing the name in **Ubuntu Dash**. Open the **virtualization software** by clicking on the icon.
+
+Search for **VMware Workstation** by typing the name in **Ubuntu Dash**.
+Open the **virtualization software** by clicking on the icon.
 
 ![vmware_7](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_7.png)
 
@@ -62,32 +64,32 @@ Before you land on VMware Workstation’s Home window, it will ask you to:
 
 ![vmware_12](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_12.png)
 
-After click **Finish**, *After ask password to Authenticate**
+After click **Finish**, *After ask password to Authenticate.*
 
 ![vmware_13](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_13.png)
 
-And **Show the Information**
+And **Show the Information.**
 
 ![vmware_14](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_14.png)
 
-About **VMware Workstaion**
+About **VMware Workstaion.**
 
 ![vmware_15](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_15.png)
 
-VMware **Home page**
+VMware **Home page.**
 
 ![vmware_16](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_16.png)
 
-Click File and Click *Virtual Machine Configuration*
+Click File and Click *Virtual Machine Configuration.*
 **Select Custom(advenced)**
 
 ![vmware_17](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_17.png)
 
-Choose the **Virtual Machine Hardware Compatibility**
+Choose the **Virtual Machine Hardware Compatibility.**
 
 ![vmware_18](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_18.png)
 
-In this case, Choose **I will install the Operting system later**
+In this case, Choose **I will install the Operting system later.**
 
 ![vmware_19](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_19.png)
 
@@ -96,59 +98,59 @@ In this case choose **Linux**.
 
 ![vmware_20](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_20.png)
 
-And Name the **Virtual Machine**
+And Name the **Virtual Machine.**
 
 ![vmware_21](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_21.png)
 
-Specify the number of **processors** for this *virtual machine*
+Specify the number of **processors** for this *virtual machine.*
 
 ![vmware_22](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_22.png)
 
-Choose the how much **memory** you like use for this *virtual machine* 
+Choose the how much **memory** you like use for this *virtual machine.* 
 
 ![vmware_23](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_23.png)
 
-Choose the **Network Type**
+Choose the **Network Type.**
 
 ![vmware_24](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_24.png)
 
-Select **Input/Output Controller Types**
+Select **Input/Output Controller Types.**
 
 ![vmware_25](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_25.png)
 
-Select the **Disk Type**
+Select the **Disk Type.**
 
 ![vmware_26](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_26.png)
 
-Select a Disk
-In this case Use an **existing virtual disk**
+Select a Disk,
+In this case Use an **existing virtual disk.**
 
 ![vmware_27](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_27.png)
 
-Select an **Existing Disk**
+Select an **Existing Disk.**
 
 ![vmware_28](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_28.png)
 
-Choose an **VMware virtual disk image**
+Choose an **VMware virtual disk image.**
 
 ![vmware_29](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_29.png)
 
-Select an *Existing Disk* and Click **Keep Existing Format**
+Select an *Existing Disk* and Click **Keep Existing Format.**
 
 ![vmware_30](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_30.png)
 
-Select an **Existing Disk** and Click Next
+Select an **Existing Disk** and Click Next.
 ![vmware_31](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_31.png)
 
-Read the Information  and Ready to Create Virtual Machine
+Read the Information  and **Ready to Create Virtual Machine**.
 
 ![vmware_32](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_32.png)
 
-Now, **Debian VMware Workstation** Ready to Start
+Now, **Debian VMware Workstation** Ready to Start.
 
 ![vmware_33](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_33.png)
 
-Start up this **guest operating system**
+Start up this **guest operating system.**
 
 ![vmware_34](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_34.png)
 
@@ -156,7 +158,7 @@ Now, **VMware** is started , It's waiting for connection...
 
 ![vmware_35](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_35.png)
 
-Loaded **Debian GRUB file** in *VMware*
+Loaded **Debian GRUB file** in *VMware.*
 
 ![vmware_36](https://github.com/selvaraj-kuppusamy/vmware-debian/blob/main/assets/vmware_36.png)
 
